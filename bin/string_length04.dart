@@ -7,8 +7,6 @@
         string
 */
 String func(s) {
-  String s;
-  s = 'murod';
   int n;
   n = s.length;
   String ans;
@@ -17,5 +15,6 @@ String func(s) {
 }
 
 void main() {
+  print(func("murod"));
   // write your code here
 }

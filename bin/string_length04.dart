@@ -6,6 +6,16 @@
     Returns:
         string
 */
+String func(s) {
+  String s;
+  s = 'murod';
+  int n;
+  n = s.length;
+  String ans;
+  ans = '*' * n;
+  return (ans);
+}
+
 void main() {
   // write your code here
 }

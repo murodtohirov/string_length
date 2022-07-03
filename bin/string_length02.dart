@@ -6,6 +6,15 @@
     Returns:
         True or False
      */
+bool func(text) {
+  int a;
+  a = text.length;
+  if (a % 2 == 0) {
+    return true;
+  }
+  return false;
+}
+
 void main() {
-  // write your code here
+  print(func("code"));
 }

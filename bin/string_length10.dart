@@ -6,7 +6,12 @@
     Returns:
         bool: answer
 */
+String func(String s) {
+  return s.toUpperCase();
+}
 
 void main() {
+  print(func('code'));
+
   // write your code here
 }

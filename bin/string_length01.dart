@@ -4,12 +4,14 @@
     Args:
         a: string
     Returns:
-    
+
         length of string */
+int func(String s) {
+  //String s = "salomcha";
+  int x = s.length;
+  return x;
+}
 
 void main() {
-  String s = 'code';
-
-  int y = s.length;
-  print(y);
+  print(func('salom'));
 }

@@ -6,6 +6,7 @@
         s2: string
     Returns:
         shortest string
+        
 */
 String func(s1, s2) {
   int x;

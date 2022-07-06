@@ -6,6 +6,7 @@
         b: string
     Returns:
         True or False
+        
 */
 bool func(a, b) {
   int x;

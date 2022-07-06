@@ -5,6 +5,7 @@
         s: str
     Returns:
         bool: answer
+        
 */
 String func(String s) {
   // String a = "codeschool";

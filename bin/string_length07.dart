@@ -6,6 +6,7 @@
         s2: string
     Returns:
         string
+        
 */
 
 String func(String s1, String s2) {

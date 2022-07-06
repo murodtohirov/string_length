@@ -5,6 +5,7 @@
         a: string
     Returns:
         True or False
+        
      */
 bool func(text) {
   int a;

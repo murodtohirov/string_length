@@ -6,6 +6,7 @@
         s2: string
     Returns:
         total length of strings
+        
 */
 int func(s1, s2) {
   int x;

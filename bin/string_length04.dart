@@ -5,13 +5,14 @@
         s: string
     Returns:
         string
+        
 */
 String func(s) {
   int n;
   n = s.length;
   String ans;
   ans = '*' * n;
-  return (ans);
+  return ans;
 }
 
 void main() {

@@ -6,7 +6,10 @@
         s: string
     Returns:
         str: answer
+        
 */
+String func(int s) {}
+
 void main() {
   // write your code here
 }

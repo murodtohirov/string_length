@@ -5,7 +5,7 @@
         s: string
     Returns:
         string
-        
+
 */
 String func(s) {
   int n;

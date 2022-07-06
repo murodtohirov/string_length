@@ -6,7 +6,7 @@
         b: string
     Returns:
         True or False
-        
+
 */
 bool func(a, b) {
   int x;
@@ -16,8 +16,8 @@ bool func(a, b) {
 
   if (x == y) {
     return true;
-  }
-  return false;
+  } else
+    return false;
 }
 
 void main() {

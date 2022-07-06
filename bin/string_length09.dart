@@ -7,6 +7,18 @@
     Returns:
         str: answer
      */
-void main() {
-  // write your code here
+String func(String s1, String s2) {
+  int a;
+  a = s1.length;
+  int b;
+  b = s2.length;
+  if (a > b) {
+    return s1 + s2;
+  } else
+    return s1;
+}
+
+void main() // write your code here
+{
+  print(func(" salomalekum  ", "   qaleysiz "));
 }

@@ -7,11 +7,12 @@
         bool: answer
 */
 String func(String s) {
-  return s.toUpperCase();
+  // String a = "codeschool";
+  return (s.toUpperCase());
 }
 
 void main() {
-  print(func('code'));
+  print(func('ishtixon'));
 
   // write your code here
 }
